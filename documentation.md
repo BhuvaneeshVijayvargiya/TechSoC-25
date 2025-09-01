@@ -1,23 +1,23 @@
 ## Problem Understanding
-**What the problem is asking:** [Explain in your own words]
+**What the problem is asking:** to encrypt messages
 
-**Key concepts involved:** [List the main ideas/algorithms needed]
+**Key concepts involved:** encryption
 
-**My approach:** [High-level strategy  you chose]
+**My approach:** brute force
 
 ---
 
 ##  Conceptual Learning
 
 ### **New Concepts I Discovered**
-- **[Concept Name]:** [What it is and why it's useful]
-- **[Another Concept]:** [Brief explanation and application]
+- ascii table
+- getline
 
 ### **How I Applied These Concepts**
-[Explain how you used the concepts to solve the problem]
+brute forcing
 
 ### **Real-World Connections**
-[For secret messages]
+for secret messages
 
 
 
