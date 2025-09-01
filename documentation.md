@@ -1,15 +1,9 @@
-# 📝 Solution Documentation Template
-
-> **💡 Tip:** Copy this template to each problem folder as `documentation.md` and fill in your details!
-
----
-
 ## Problem Understanding
 **What the problem is asking:** [Explain in your own words]
 
 **Key concepts involved:** [List the main ideas/algorithms needed]
 
-**My approach:** [High-level strategy you chose]
+**My approach:** [High-level strategy  you chose]
 
 ---
 
@@ -23,7 +17,7 @@
 [Explain how you used the concepts to solve the problem]
 
 ### **Real-World Connections**
-[Where might you see this problem or similar concepts in real applications?]
+[For secret messages]
 
 
 
